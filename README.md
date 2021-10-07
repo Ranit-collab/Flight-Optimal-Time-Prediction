@@ -17,7 +17,7 @@ with the minimum ticket price. So can we can predict the time when a customer
 can book a ticket before the travel to get the best price according to the airline.
 
 ### Data is scarped from www.kayak.co.in 
-### Link - https://flight-time.herokuapp.com/ 
+### Link - https://flight-time.herokuapp.com/   (Use Chrome for better experience)
 ### EDA 
 ### MOdel used-
     Model Name	            Train R2	Train MAE	Test R2	Test MAE
